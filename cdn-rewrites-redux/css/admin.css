@@ -1,0 +1,47 @@
+#jquery-tabs *
+{
+    font-size: 11px;
+}
+#jquery-tabs h3
+{
+    font-size: 13px;
+    margin: 25px 0 10px 0;
+}
+#message ul, #profilesTable ul, #otherSupport
+{
+    list-style-type: disc;
+    margin-left: 20px;
+}
+#editInstruction
+{
+    color: #555;
+}
+.active
+{
+    background: #e7f7d3;
+}
+.wrap input[type='checkbox']
+{
+    margin-right: 5px;
+}
+.ui-tabs-nav a
+{
+    font-weight: bold;
+}
+.wrap code
+{
+    background: #efefef;
+    font-weight: normal !important;
+}
+.clear
+{
+    clear: both;
+}
+#donate
+{
+     width: 200px; 
+     background: #ffffe0; 
+     float: right; 
+     padding: 2px 10px; 
+     border: 1px solid #ccc;
+}
